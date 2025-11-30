@@ -1,5 +1,5 @@
 # Cost-Efficient-Large-Language-Model-Serving-via-Mixed-Integer-Linear-Programming
-This is a Python based simulation tool used to analyze the cost-effectiveness of different power allocation strategies (MILP optimal solution vs greedy algorithm vs isomorphic allocation) in different GPU availability scenarios.
+This is a Python based simulation project of COMP76704 used to analyze the cost-effectiveness of different power allocation strategies (MILP optimal solution vs greedy algorithm vs isomorphic allocation) in different GPU availability scenarios.
 
 ## 1 Project background 
 
