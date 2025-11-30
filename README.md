@@ -1,5 +1,5 @@
 # Cost-Efficient-Large-Language-Model-Serving-via-Mixed-Integer-Linear-Programming
-This is a Python based simulation project of COMP76704 used to analyze the cost-effectiveness of different power allocation strategies (MILP optimal solution vs greedy algorithm vs isomorphic allocation) in different GPU availability scenarios.
+This is a Python based simulation project of COMP6704 used to analyze the cost-effectiveness of different power allocation strategies (MILP optimal solution vs greedy algorithm vs isomorphic allocation) in different GPU availability scenarios.
 
 ## 1 Project background 
 
@@ -56,7 +56,7 @@ Simply run the script using Python:
 ```Bash
 python MILP.py
 ```
-## 5. Output
+## 5 Output
 The script will generate console logs showing the calculated costs for each experiment. Upon completion, it will save 4 PNG images in the current directory, corresponding to the availability scenarios:
 
     1.scenario_1_scarce.png
@@ -69,7 +69,7 @@ The script will generate console logs showing the calculated costs for each expe
 
 Each image contains subplots comparing the algorithms across the different workload traces.
 
-## 6.Reference
+## 6 Reference
 @article{jiang2025demystifying,
   title={Demystifying cost-efficiency in llm serving over heterogeneous gpus},
   author={Jiang, Youhe and Fu, Fangcheng and Yao, Xiaozhe and He, Guoliang and Miao, Xupeng and Klimovic, Ana and Cui, Bin and Yuan, Binhang and Yoneki, Eiko},
