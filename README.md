@@ -68,3 +68,11 @@ The script will generate console logs showing the calculated costs for each expe
     4.scenario_4_rich.png
 
 Each image contains subplots comparing the algorithms across the different workload traces.
+
+## 6.Reference
+@article{jiang2025demystifying,
+  title={Demystifying cost-efficiency in llm serving over heterogeneous gpus},
+  author={Jiang, Youhe and Fu, Fangcheng and Yao, Xiaozhe and He, Guoliang and Miao, Xupeng and Klimovic, Ana and Cui, Bin and Yuan, Binhang and Yoneki, Eiko},
+  journal={arXiv preprint arXiv:2502.00722},
+  year={2025}
+}
